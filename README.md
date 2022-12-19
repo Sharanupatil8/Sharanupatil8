@@ -1,10 +1,5 @@
- 💻 Self taught Developer
- 💻 Working on Web & App Development
- 📝 Writing Words, Compiling Code
- 🎯 Goal : To be a better Developer
-
 # 💫 About Me:
-Self taught
+💻 Self-taught Developer <br>💻 Working on Web  Development<br> 📝 Writing Words, Compiling Code <br>🎯 Goal: To be a better Developer
 
 
 ## 🌐 Socials:
